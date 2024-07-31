@@ -1,0 +1,24 @@
+Projektidee: Analyse von Wetterdaten zur Identifikation der häufigsten Witterungsbedingungen
+Ziel des Projekts
+Untersuche historische Wetterdaten, um die häufigsten Witterungsbedingungen in einem bestimmten geografischen Gebiet und Zeitraum zu identifizieren. Visualisiere die Ergebnisse, um ein besseres Verständnis der typischen Wetterbedingungen zu erhalten.
+
+Projektumfang
+Datenquelle
+
+Sammle historische Wetterdaten für einen bestimmten Ort (z.B. eine Stadt) und Zeitraum (z.B. die letzten 5 Jahre). Datenquellen können Wetterstationen, Online-Datenbanken oder öffentliche Wetterdatenportale sein.
+Datenaufbereitung
+
+Bereinige die Daten, indem du fehlende Werte und Ausreißer identifizierst und behebst.
+Konvertiere die Daten in ein einheitliches Format, wenn sie aus verschiedenen Quellen stammen.
+Datenanalyse
+
+Berechne grundlegende statistische Kennzahlen wie Durchschnittstemperatur, Niederschlagsmengen und Windgeschwindigkeit.
+Identifiziere die häufigsten Witterungsbedingungen (z.B. häufigste Temperaturen, häufigste Niederschlagsmengen).
+Visualisierung
+
+Erstelle einfache Diagramme wie Balkendiagramme, Liniendiagramme und Tortendiagramme, um die häufigsten Witterungsbedingungen darzustellen.
+Visualisiere Trends über den Zeitraum hinweg, um saisonale Muster oder jahreszeitliche Variationen zu zeigen.
+Interpretation
+
+Erkläre, was die Visualisierungen über das Wetter in dem ausgewählten Gebiet aussagen.
+Diskutiere mögliche Auswirkungen auf das tägliche Leben oder den Alltag der Menschen in diesem Gebiet.
